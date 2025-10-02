@@ -1,3 +1,17 @@
+### Pré-requisitos
+
+Certifique-se de ter o **Node.js** instalado em sua máquina.
+
+### Execução
+
+1.  **Abra o Terminal** na pasta raiz do projeto.
+2.  **Execute o arquivo principal** usando o comando `node`:
+
+    ```bash
+    node /src/index.js
+    ```
+---
+
 <h1>Desafio de projeto do Felipão: Mario Kart.JS</h1>
 
   <table>
